@@ -1,0 +1,195 @@
+<resources>
+    <string name="app_name">Gastropedia</string>
+
+    <string name="ogeninfo">-	GI FLOOR IS D8 \n ------------------------s \n-	24 beds total with GI trained nursing staff\n-	General GI/Resident Team: usually 16 patient cap\n-	Hepatology/Mid-level Practitioner Team: 8 patient cap\n-	Occasionally may have general pediatrics or surgery patients\n-	Printer: D8025H1 [2177]30\n-	Copier code 2971\n-	Tube station: #916
+
+    </string>
+
+    <string name="ohelp">-	Senior Phone: 61424\n-	Intern Phones: 69016, 65565\n-	Charge Nurse: 69846\n-	D8 HUC: 62971; Fax: 67682\n-	Case manager:\no	Lisa Lebsack: 62037 (pager 18445)\no	Brianna Nemons: 64684\n-	Nutrition:\no	Jesse Pace: pager 11049\no	Weekend on Call: pager 23760\n-	Social work:\no	Yesenia: Pager 18915\no	On call ED: 13410\n-	GI psychology:\no	Lily Iteld: Pager 10581\no	Psychology Liason: Jane Levieux: pager 17488\n-	Pharmacist:\no	Duc: 62245\no	PM Pharmacist: 66209\no	Anticoagulation pharmacist: 25643\n-	GI clinic: 68000; Fax: 68006\n-	Hepatology NP/PAs: call HUC 62971 to page if needed\n-	Transplant clinic: 68600\n-	Transplant coordinators:\no	Sarah Sullivan: 65434\no	Ann Roberson: 66376\no	Monica Harrison: 66138\n-	PICC Team: 68581\n-	Radiology Liason: Virginia (IR): 65776; Randall (MRI): 65052\n-	Radiology Night Resident: 64085\n-	Fluoro: 66412, 66413\n-	Nuclear Medicine: 64057
+
+    </string>
+
+    <string name="oaid"> PLACEHOLDER TEXT ENTER WHAT YOU WANT HERE! </string>
+
+    <string name="noverview">-	When admitting patients, know:\no	Formula used\no	Calorie content (kcal/oz)\no	Final caloric content if concentrated (kcal/oz)\no	Additives\no	Route (PO/G tube/etc)\no	Quantity\no	Rate (if tube fed) and frequency\n-	If home formula not available, call your dietician to see what is comparable formula\n-	Orders must be in by 2PM\n
+
+     </string>
+
+    <string name="formulainfant">-	Breast Milk\no	19 kcal/oz\no	Only contraindications:\n	Infants with galactosemia\n	Mothers with:\n•	HIV who are taking antiretroviral medications\n•	Untreated active tuberculosis\n•	Human T cell Lymphotropic virus type I or II\n•	Current drug abuse\n•	Use of chemotherapy agents or undergoing radiation therapies\no	Make sure to add breast feeding diet for mom\n-	Preterm Formulas:\no	Similac special care 20/22/24 kcal/oz (NICU only)\no	Similac Neosure 22 kcal/oz (NICU graduate)\n-	Whole Protein Formulas:\no	Similac Advance\no	Enfamil Premium\no	Gerber Good Start\n-	Hydrolyzed Formulas:\no	Enfamil Nutramigen\no	Similac Alimentum\no	Enfamil Pregestimil\n-	Elemental Formulas:\no	Elecare Infant\no	Neocate Infant
+
+
+    </string>
+    <string name="formulachild">
+        o	**REMEMBER 1.0 REFERS TO 1.0 CALORIES PER ML (30KCAL/OZ)** \n
+        o	Whole protein: \n
+        \t\t	Pediasure\n
+        \t\t	Pediasure Enteral 1.0\n
+        \t\t	Pediasure Enteral 1.0 with fiber\n
+        \t\t	Pediasure 1.5 \n
+        \t\t	Pediasure 1.5 with fiber\n
+        \t\t	Bright Beginnings Soy\n
+        \t\t	Pediatric Sidekicks 0.63\n
+        \t\t	Kate Farms Komplete\n
+        o	Peptide formulas: \n
+        \t\t	Pediasure peptide 1.0\n
+        \t\t	Pediasure peptide 1.5\n
+        o	Elemental: \n
+        \t\t	Elecare Jr. \n
+        \t\t	Neocate Jr. \n
+
+    </string>
+    <string name="formulaadult">-	Whole Protein: \no	Oral: \n	Ensure plus\n	Ensure Clear\n	Ensure Enlive\n	Ensure Compact\no	Enteral \n	Osmolite 1.0\n	Jevity 1.0\n	Jevity 1.5\n	Nutren 2.0\n	Promote\n-	Peptide:\no	Vital 1.0\no	Vital 1.5\no	Peptamen 1.5\n-	Elemental:\no	Tolerex\no	Vivonex RTF\n
+    </string>
+
+    <string name="ntpn">-	Overview :\no	Print out prior TPN order to figure out TPN weight\no	TPN like fluids: look at electrolyte composition in previous TPN and try to match IVF as close as possible to this\no	DO NOT change TPN weights unless instructed by attending or dietician\no	Pay attention to TPN component shortages and cross them out on their printed TPN order accordingly\no	Please read nutrition note to see if any adjustments are necessary\no	If on TPN &lt;24 hours, can write nursing communication ok to wean TPN\no	Rocephin not compatible with calcium in TPN\n-	TPN labs:\no	Mon/Thurs- Lytes, BUN, Cr, Ca, Mag, Phos, Glucose, TG\no	Mon only: T/D bili, AST, ALT, GGT, Alk Phos, CBC w/Diff, Albumin\no	Changes: Daily lytes, BUN, Cr, Ca, Mag, Phos, glucose, TG\no	Fat Soluble Vitamin Levels: Retinol (A), Vitamin D25-OH (D), a-tocopherol (E), PT (K)\no	Trace Elements: Copper, selenium, chromium, zinc, manganese\n
+
+    </string>
+    <string name="ndiet">-	Clear Liquid: \no	Clear liquids like juice and water \no	Clear Liquid, no sweets diet: order when patient has diarrhea or short gut syndrome\n-	Full Liquid: \no	Infrequently used and includes liquids/yogurts/pudding/milk that would not be included in clear liquid diet\no	Not typically part of an “advance as tolerated” situation\n-	Mechanical Soft:\no	Indications: post T \&amp; A, post banding of varices, those with problems chewing/swallowing\no	Not typically used in an “advance as tolerated” situation\n-	Regular diet:\no	Self-explanatory\no	Unique situations include 6 meals per day option (those needing small frequent meals) or 6 meals + double portions (those needing high caloric intake like in CF patients)\n-	Low Fiber/Residue: \no	2g of fiber or less per serving\no	No whole grains/nuts/skins/peels/seeds\no	Minimal fruits/vegetable options\no	Indications: Crohn’s disease with stricture; IBD patients who have pain with high fiber foods\n-	Low Fat: \no	3g of fat per serving or less\no	Indications: Pancreatitis, short gut syndrome, fat malabsorption leading to increased stool output\n-	GI Recovery 2 diet: \no	Low Fat + Low Fiber + Low Acid + Low Bacteria + Lactose Restricted + Caffeine Free + Low sugar\no	Indications: GI GVHD, bland diet\n-	Lactose Restricted: \no	Indications: Lactose intolerant patients, IBD patients who do not tolerate milk products during flare\n-	No concentrated Sweets:\no	≤5g of carbohydrates + foods with 5 grams carbohydrates or more but &lt; 50% from sugar\no	Most commonly seen for diabetic patients\no	Indication on GI floor: all short gut patients, patients with profuse diarrhea of other etiologies\n
+    </string>
+
+    <string name="lineover">
+        -Central line- direct access to major vessels closest to the heart \n-For long term, constant access needs: Hickman/Broviac \n-For shorter term but constant access needs: PICC \n-For long term, intermittent access needs: IVAD \n-If it can be pulled without detriment to the patient, do it. Not acceptable to leave a CVL for lab draws \n-If patient with CVL fevers (38.0 degrees Celsius), get blood cultures (peripheral/line), call fellow for antibiotics \n
+    </string>
+
+    <string name="linetypes">-	Broviac/Hickman \no	For patients needing long term access like for TPN, chemotherapy, etc\no	May see in younger patients because these are harder for a small child to pull out\no	Usually placed in chest but can be femoral\no	Tunneled and placed by surgery\no	Dressings must be changed q7d or as needed\no	If gauze is used in place of the biopatch, the dressing is changed q24h\n-	PICC\no	Peripherally Inserted Central Catheter\n o	For patients needing long term antibiotics, TPN, or pain control that may be tough sticks\no	Still considered temporary access. Used for a couple weeks up to 1 year\no	Placed by PICC team or IR. PICC team completes education before discharge\no	Consider in patients:\n	Require more than 4 venous sticks\n	Require IV antibiotics longer than 5-7 days\n	Require long term pain management\n	Require TPN\no	Parents do not need to do PICC dressing changes due to risk for dislodgement\no	Dressing must be changed q7d or as needed\no	Most PICC lines are not sutured\n-	IVAD\no	Intravenous Access Device\no	For patients needing long term access but may not need access on a daily basis. Can stay in for years\no	Placed by surgery or IR\no	Requires accessing the port prior to use as this port is implanted and hidden under the skin\no	Consider in patients:\n	Require chemotherapy\n	TPN (less commonly used for this indication)\no	Will need to be de-accessed and re-accessed with a new needle every week if they have continuous infusion but only need this once a month if not actively used\n
+
+    </string>
+
+    <string name="ngtube">
+        -	Measure from nose to earlobe, ear lobe to half way between umbilicus and xiphoid \n
+        \t\t o	Earlobe: where an earring would be \n
+        \t\t o	Xiphoid bottom of chest bone where there is a little dimple\n
+        -	Drop tube\n
+        -	Check placement\n
+        \t\t o	No longer need KUB to verify 1st NG tube placement\n
+        \t\t o	Can auscultate, measure, aspirate gastric content, pH testing, or perform KUB\n
+        \t\t o	Must do this before put anything in tube\n
+        -	Needs to be changed once a month. Parents learn how to do this prior to discharge\n
+        -	If comes out before a month, can wash tube with soap and water and replace\n
+        -	Insurance only covers 1-2 tubes per month\n
+
+    </string>
+
+    <string name="ndtube">
+        -	Nasoduodenal or nasojejunal tube \n
+        -	Cannot give bolus feeds with these \n
+        -	The floor nurse should attempt to drop ND tube at least once (maximum of twice) before calling fluoro for placement \n
+        \t\t o	Order to drop weighted ND tube \n
+        \t\t o	Can use motility agent \n
+        \t\t o	Order Nursing communication: patient should lay on right side for 2 hours after placement to help tube pass pylorus \n
+        -	Need to confirm placement with X ray \n
+
+    </string>
+
+
+    <string name="salemtube">
+        -	Dual lumen tube allows for easy intermittent and continuous suction to decompress/empty stomach contents\n
+        \t\t o	Large lumen for suction\n
+        \t\t o	Smaller lumen for venting/equalizing pressure\n
+        -	Multiple suction eyelets\n
+        -	More rigid than NG tubes used for feeding. It prevents tube from collapsing when suction is applied\n
+        -	Range from 6-18 french (2.0-6.0 mm)\n
+        -	[Patients age + 16]/2\n
+
+    </string>
+
+
+    <string name="pegtube">
+        -	Cannot submerge abdomen under water for 2 weeks after PEG tube placement\n
+        -	If new PEG tube accidentally pulled out, put gauze over, do not replace given risk for perforation. Tract will close up in 15-30 minutes.\n
+        -	Daily care: warm soap and water minimum once a day\n
+
+    </string>
+
+
+    <string name="pezzartube">
+        -	Surgical G tubes used to bring stomach up to the wall of abdomen\n
+        -	Is not sutured, need some type of securement device: Holister clamp (changed 1x/week) or sausage rolls (changed daily)\n
+
+    </string>
+
+
+    <string name="gbuttontube">
+        -	Balloon:\n
+        \t\t o	Mic-Key (most common)\n
+        \t\t o	Mini-button\n
+        -	Non-Balloon:\n
+        \t\t o	Bard\n
+        \t\t o	Mini ONE non-balloon\n
+        -	If pulled out, deflate balloon and put it back in. Fill with sterile water (usually 5-7 mL depending on size of patient)\n
+        -	Complications:\n
+        \t\t o	Leaking:\n
+        \t\t\t\t 	Check fill volume (5-7 mL sterile water)\n
+        \t\t\t\t 	Could be slow leak in balloon\n
+        \t\t\t\t 	Order stoma measuring device to ensure that you have the right size button\n
+        \t\t\t\t 	Consider consulting wound ostomy\n
+        \t\t o	Infections:\n
+        \t\t\t\t 	Look for redness, swelling, and purulent drainage\n
+
+    </string>
+
+    <string name="gjbuttontube">
+        -	Same as G tube but threaded into the Jejunum\n
+        -	Must be done under fluoroscopy\n
+    </string>
+
+    <string name="preop">
+        -	NPO times:\n
+        \t\t o	8 hours for food\n
+        \t\t o	6 hours for formula\n
+        \t\t o	4 hours for breast milk\n
+        \t\t o	2 hours for clears\n
+        -	Preparation:\n
+        \t\t o	Hgb>8.0 and get type and screen when drawing initial labs\n
+        \t\t o	Check with fellow or surgery resident if going to OR for INR goals\n
+        \t\t o	Order blood products to OR on hold to be safe\n
+    </string>
+
+    <string name="colonic">
+        -	Admit day/prior to manometry placement: Clears, NPO to 0400, golytely until 0400 with MIVF, run golytely for 4 hours after first clear stool, KUB needed at admit for constipation clean outs\n
+        -	Preop: NPO, give NS enema if not clear by 0400\n
+        -	Post Manometry placement: Strict bedrest, NPO w/MIVF, no GI motility medications\n
+        -	Next Day/Study: KUB @ 0600, high fat diet at bedside, Bisacodyl 0.2 mg/kg in 15 cc enema to bedside (ordered per fraction of 10 mg/30 mL enema)\n
+    </string>
+
+    <string name="antroduodenal">-	Post manometry placement: Bedrest, NPO, MIVF, no GI motility meds\n-	Next Day/Study: KUB @ 0600, high fat diet to bedside. IV EES 1 mg/kg and IV octreotide 1 mcg/kg to bedside\n
+
+    </string>
+
+    <string name="tipconstip">
+        -	Golytely clean out rates 10-40 mL/kg/hr per patient tolerance\n
+        -	PO miralax clean out: weight (kg) x4/17= number of doses of miralax (max 15). Give one dose every 15 minutes\n
+        -	HOG Enema: 90 cc normal saline, 60 cc mineral oil (0.5 enema), 30 cc glycerin\n
+    </string>
+
+    <string name="tipliver">
+        -	When ordering liver biopsy, please order pathology consult, a viral tissue culture, and IR biopsy (or US guided biopsy)\n
+        -	All liver transplant patients need daily liver enzymes, especially if they are here for rejection\n
+        -	Consult transplant team for immunosuppression (order for all transplant patients)\n
+    </string>
+
+    <string name="tipmisc">
+        -	If patient with CVL fevers (38.0 degrees Celsius), get blood cultures (peripheral/line), call fellow for antibiotics\n
+        -	PPI dosing: 0.5-1.5 mg/kg\n
+        -	H2Blocker dosing: 2-3 mg/kg/dose, BID or TID\n
+        -	Post PEG orders: CMC IP perc endo gast order set\n
+
+    </string>
+
+    <string name="pdflist">Abdominal masses in children PIR\n	Biliary Atresia\n	Chronic Diarrhea PIR\n	Efficacy of PPIs In children with GERD\n	GERD AAP\n	GERD NASPGHAN\n	Eosinophilic Esophagitis Consensus\n	Failure to Thrive PIR\n	GI bleeding infant PIR\n	Hepatitis PIR\n	Hepatomegaly PIR\n	IBD PIR\n	Intestinal Obstruction newborn- PIR\n	Pediatric Malnutrition\n	Pancreatitis in Children and Adolescents PIR\n	Pyloric stenosis PIR\n	Pediatric Dysphagia\n	Refeeding syndrome\n	Childhood Functional GI Disorders Neonate/toddlers\n	Celiac Disease ESPGHAN\n	Celiac Disease NASPGHAN\n	Gluten related disorders NASPGHAN\n	Cholestatic Jaundice NASPGHAN\n	Functional Abdominal pain\n	FAP and IBS NIH\n	Chronic abdominal pain NASPGHAN\n	Malabsorptive Disorders PIR\n	Rome III Criteria for functional GI disorders\n	Constipation guidelines NASPGHAN\n	H Pylori guidelines NASPGHAN\n	Cyclic vomiting syndrome NASPGHAN\n	Nutritional Support for Neurologically Impaired Children
+
+    </string>
+
+    <string name="pdfers">Abdominal masses in children PIR\n Biliary Atresia\n Chronic Diarrhea PIR\nCeliac Disease ESPGHAN\nCeliac Disease NASPGHAN\nChildhood Functional GI Disorder\nCholestatic Jaundice NASPGHAN\nChronic abdominal pain Clinical NASPGHAN\nChronic Abdominal Pain In Children\nChronic abdominal pain Technical NASPGHAN\nConstipation guidelines NASPGHAN\nCyclic vomiting syndrome NASPGHAN\nEfficacy of PPIs In children with GERD\nEosinophilic Esophagitis Consensus\nFailure to Thrive PIR\nFAP and IBS NIH\nFunctional Abdominal pain\nGERD AAP\nGERD NASPGHAN\nGI bleeding infant PIR\nGluten related disorders NASPGHAN\nH Pylori guidelines NASPGHAN\nHepatitis PIR\nHepatomegaly PIR\nIBD PIR\nIntestinal Obstruction newborn  PIR\nMalabsorptive Disorders PIR\nNutritional Support for Neurologically Impaired Children\nPancreatitis in Children and Adolescents PIR\nPediatric Dysphagia\nPediatric Malnutrition\nPyloric stenosis PIR\nRefeeding syndrome\nRome III Criteria for functional GI disorders
+
+    </string>
+
+    <string name="urlers">
+        https://drive.google.com/open?id=0B1ZIBG70Ov8Lc1B6dFFIOEJDY0U\nhttps://drive.google.com/open?id=0B1ZIBG70Ov8Leko3X3BQMHpQQk0\nhttps://drive.google.com/open?id=0B1ZIBG70Ov8LelBQakc3bFZiaW8\nhttps://drive.google.com/open?id=0B1ZIBG70Ov8LRGRrQThDdTZybjg\nhttps://drive.google.com/open?id=0B1ZIBG70Ov8LeGRjQWRHSHlsZVk\nhttps://drive.google.com/open?id=0B1ZIBG70Ov8LS0Izc2pZcFNJZlE\nhttps://drive.google.com/open?id=0B1ZIBG70Ov8Lb3g3U2l1b1VUdHM\nhttps://drive.google.com/open?id=0B1ZIBG70Ov8LX2dVcDFnbUFpZ3M\nhttps://drive.google.com/open?id=0B1ZIBG70Ov8LbVBBRlk1cjEtYjQ\nhttps://drive.google.com/open?id=0B1ZIBG70Ov8Ldmh5NDRzOUJvVU0\nhttps://drive.google.com/open?id=0B1ZIBG70Ov8LUWl2Sm84WFI3ekU\nhttps://drive.google.com/open?id=0B1ZIBG70Ov8LaVdfTlpOUmRmTUU\nhttps://drive.google.com/open?id=0B1ZIBG70Ov8LZnpkNHFPVy1VRHc\nhttps://drive.google.com/open?id=0Bwlg8hwdsJ1ueXlMVEpNVWc2S0pHUXp0ZXBQQlRVOEk4RFNZ\nhttps://drive.google.com/open?id=0Bwlg8hwdsJ1uRThkSFVrQ3JmblF0N0UtTnVtS0ZqMWNhLWg0\nhttps://drive.google.com/open?id=0Bwlg8hwdsJ1uVV9rNVhWTldyWU5HMy1lbmtHd24tQTRBcE84\nhttps://drive.google.com/open?id=0Bwlg8hwdsJ1uUHFRRTlJTm5YYWlXWjJMUXRJVktXTW5ORk5r\nhttps://drive.google.com/open?id=0Bwlg8hwdsJ1ub0d4NUtOSWlDeVVNUDJ1X01JdW1xTlhIVkpV\nhttps://drive.google.com/open?id=0B1ZIBG70Ov8LTTE2cUhUa0s3Z1k\nhttps://drive.google.com/open?id=0B1ZIBG70Ov8LMTRPdFBiTGprTXc\nhttps://drive.google.com/open?id=0B1ZIBG70Ov8LQUI3RHZ5TWNiNUk\nhttps://drive.google.com/open?id=0B1ZIBG70Ov8LZDlKQ0lNZU9HN1U\nhttps://drive.google.com/open?id=0Bwlg8hwdsJ1uX2R0c1NqUnFULUFmbmVOYko1anpOWG83bUJv\nhttps://drive.google.com/open?id=0B1ZIBG70Ov8LdXYtamVYLUw0SWc\nhttps://drive.google.com/open?id=0B1ZIBG70Ov8LMUNraGp4STJ2NG8\nhttps://drive.google.com/open?id=0B1ZIBG70Ov8LQ1ViS2g4ZUlyVFk\nhttps://drive.google.com/open?id=0B1ZIBG70Ov8Lc0s1VGM5VDlQM0E\nhttps://drive.google.com/open?id=0B1ZIBG70Ov8LX2hkamNEQUJPeFk\nhttps://drive.google.com/open?id=0B1ZIBG70Ov8LSnVHOWg1VzFqZlE\nhttps://drive.google.com/open?id=0B1ZIBG70Ov8LMHlXcVZEa0lObkE\nhttps://drive.google.com/open?id=0B1ZIBG70Ov8LTFJQd1poWWZBQWs\nhttps://drive.google.com/open?id=0B1ZIBG70Ov8LLWNfeXUwWWhHQUU\nhttps://drive.google.com/open?id=0Bwlg8hwdsJ1uM2JFZ2dQN2VCRC1yMGc1TW5UZXNqVVBDT1lZ\n
+    </string>
+
+
+
+
+
+</resources>

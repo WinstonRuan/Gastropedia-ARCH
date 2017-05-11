@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="cOri">#35a9df</color>
+    <color name="cNut">#e738d6</color>
+    <color name="cLine">#6335c7</color>
+    <color name="cTube">#34d1af</color>
+    <color name="cTip">#275cb7</color>
+    <color name="cCore">#cc8334</color>
+    <color name="cPre">#e6d820</color>
+    <color name="trans">#00000000</color>
+</resources>
